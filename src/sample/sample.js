@@ -3,4 +3,3 @@ const sample = (i) => {
 }
 
 export default sample
-
